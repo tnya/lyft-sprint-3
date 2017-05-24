@@ -14,6 +14,11 @@ body {
   color:white;
 }
 
+.container{
+  width: 100%;/*para hacerlo responsive junto a etiqueta en HTML*/ 
+  margin:0 auto;
+  overflow: hidden;
+}
 /* BARRA NAVEGACION */
 
 nav{
