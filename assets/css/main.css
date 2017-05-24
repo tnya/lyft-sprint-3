@@ -157,6 +157,12 @@ nav li a:hover{
   bottom: 200px;
 }
 
+.coordenadas .fa-car{
+    position: relative;
+    top: 40px;
+    color: #75726C;
+  }
+
 /* FOOTER */
 
 .footer1{
