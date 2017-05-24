@@ -75,6 +75,7 @@ nav ul li a {
 nav li a:hover{
   background-color: #E56385;
 }
+/* HEADER */
 
 .header {
   background-image: url('../img/cropped-Lyft-Promo-Codes-car-1.jpg');
@@ -86,6 +87,52 @@ nav li a:hover{
   display: block;
   padding:350px 0;
 }
+/* BECOME A DRIVER BOX */
+
+.driver-form{
+  width:40%;
+  height:70%;
+  padding: 50px 10px;
+  position:relative;
+  left: 60%;
+  color:#040403;
+  background-color: #EDE9E2;
+  top: 100px;
+  font-weight: lighter;
+  
+
+}
+.driver-form h1{
+  color:#00B2A9;
+  text-align:center;
+
+}
+.button-driver{
+  color: whitesmoke;
+  width: 240px;
+  height: 45px;
+  font-size: 16px;
+  font-weight: lighter;
+  background-color: #E54E79;
+  border-color: transparent;
+  border-radius: 16px;
+  position: relative;
+  top: 20px;
+  margin-bottom: 40px;
+
+}
+
+.phone{
+  background-color: #EDE9E2;
+  position: relative;
+  border: none;
+  top: 10px;
+  width: 400px;
+  height: 30px;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
 
 /* PLAY WITH LYFT */
 
@@ -112,6 +159,19 @@ nav li a:hover{
   background-color: #807D78;
   width:100%;
   padding: 5px 40px;
+}
+
+.follow-me{
+  position: relative;
+  bottom: -60px;
+  left: 20%;
+
+}
+
+.more-links {
+  position: relative;
+  bottom: 70px;
+  left: 60%;
 }
 
 .more-links ul li a{
